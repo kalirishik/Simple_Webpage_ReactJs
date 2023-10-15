@@ -1,0 +1,18 @@
+nav{
+    width: 100%;
+    background-color:black;
+    color:aqua;
+}
+ul{
+    list-style:none;
+    display: flex;
+    justify-content:space-evenly;
+}
+a{
+    font-size: 27px;
+    text-decoration: none;
+    color: aliceblue;
+}
+a:hover{
+    color:aqua
+}
